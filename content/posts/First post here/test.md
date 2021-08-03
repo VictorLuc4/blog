@@ -12,7 +12,7 @@ categories: ["Miscellaneous"]
 tags: ["Miscellaneous"]
 
 resources:
-- name: "random"
+- name: "featured-image"
   src: "featured-image.png"
 
 ---

@@ -17,6 +17,6 @@ echo -e "Commit to the github.io repository..."
 cd public
 git add .
 git commit -m "Update : $NOW" > /dev/null 2>&1
-git push origin main > /dev/null 2>&1
+git push origin main 
 
 echo -e "Successfully committed"

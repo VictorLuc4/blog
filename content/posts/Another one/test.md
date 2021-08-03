@@ -1,12 +1,12 @@
 ---
 weight: 1
-title: "Test"
+title: "Another one test 2"
 date: 2021-08-03T10:28:12+02:00
 draft: false
 author: "Victor"
 lightgallery: true
 
-description: "Some test post"
+description: "Again test post 2"
 
 categories: ["Miscellaneous"]
 tags: ["Miscellaneous"]

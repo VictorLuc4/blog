@@ -6,18 +6,18 @@
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 03 Aug 2021 10:28:12 &#43;0200</lastBuildDate>
             <atom:link href="https://victorluc4.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Another one test 2</title>
+    <link>https://victorluc4.github.io/posts/another-one/test/</link>
+    <pubDate>Tue, 03 Aug 2021 10:28:12 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://victorluc4.github.io/posts/another-one/test/</guid>
+    <description><![CDATA[<p>Ici on va dire que c&rsquo;est du subline content</p>]]></description>
+</item><item>
     <title>first post test 1 </title>
     <link>https://victorluc4.github.io/posts/first-post-here/test/</link>
     <pubDate>Tue, 03 Aug 2021 10:28:12 &#43;0200</pubDate>
     <author>Author</author>
     <guid>https://victorluc4.github.io/posts/first-post-here/test/</guid>
-    <description><![CDATA[<p>Ici on va dire que c&rsquo;est du subline content</p>]]></description>
-</item><item>
-    <title>Test</title>
-    <link>https://victorluc4.github.io/posts/another-one/test/</link>
-    <pubDate>Tue, 03 Aug 2021 10:28:12 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://victorluc4.github.io/posts/another-one/test/</guid>
     <description><![CDATA[<p>Ici on va dire que c&rsquo;est du subline content</p>]]></description>
 </item></channel>
 </rss>

@@ -13,7 +13,7 @@ tags: ["Miscellaneous"]
 
 resources:
 - name: "random"
-  src: "random.jpg"
+  src: "featured-image.jpg"
 
 ---
 

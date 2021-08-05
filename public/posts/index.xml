@@ -4,13 +4,6 @@
         <link>https://victorluc4.github.io/posts/</link>
         <description>All Posts | Victor&#39;s site</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Tue, 03 Aug 2021 10:28:12 &#43;0200</lastBuildDate><atom:link href="https://victorluc4.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Another one test 2</title>
-    <link>https://victorluc4.github.io/posts/another-one/</link>
-    <pubDate>Tue, 03 Aug 2021 10:28:12 &#43;0200</pubDate>
-    <author>Author</author>
-    <guid>https://victorluc4.github.io/posts/another-one/</guid>
-    <description><![CDATA[<p>Ici on va dire que c&rsquo;est du subline content</p>]]></description>
-</item><item>
     <title>first post test 1 </title>
     <link>https://victorluc4.github.io/posts/first-post-here/</link>
     <pubDate>Tue, 03 Aug 2021 10:28:12 &#43;0200</pubDate>

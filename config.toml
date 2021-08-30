@@ -7,12 +7,12 @@ title = "Victor's site"
 
 theme = "LoveIt"
 
+enableEmoji = true
+
 [params]
   version = "0.2.X"
   defaultTheme = "dark"
   dateformat = "02-01-2006"
-
-  enableEmoji = true
   
   [params.header]
     desktopMode = "fixed"
@@ -120,7 +120,7 @@ theme = "LoveIt"
   [[menu.main]]
     identifier = "about"
     pre = "<i class='fas fa-address-card'></i> "
-    name = "A Propos"
+    name = "About"
     url = "/about/"
     weight = 3
 

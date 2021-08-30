@@ -1,6 +1,6 @@
 # Hello There
 
-![Profile picture](profile.png "Profile picture")
+![Profile picture](profile.png)
 
 I'm `Victor` a Software and Security Engineer working at [Astronomer](https://astronomer.io).
 

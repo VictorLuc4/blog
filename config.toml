@@ -10,6 +10,10 @@ theme = "LoveIt"
 enableEmoji = true
 
 [params]
+  githubLink = "https://github.com/VictorLuc4"
+  twitterLink = "https://twitter.com/victorl52367266"
+  linkedinLink = "http://linkedin.com/in/victor-lucas777/"
+  
   version = "0.2.X"
   defaultTheme = "dark"
   dateformat = "02-01-2006"

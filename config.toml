@@ -11,6 +11,8 @@ theme = "LoveIt"
   version = "0.2.X"
   defaultTheme = "dark"
   dateformat = "02-01-2006"
+
+  enableEmoji = true
   
   [params.header]
     desktopMode = "fixed"
@@ -145,7 +147,7 @@ theme = "LoveIt"
     endLevel = 6
 
 [author]
-  name = "Nyxott"
+  name = "Victor"
   email = ""
   link = ""
 
